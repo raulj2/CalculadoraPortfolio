@@ -52,7 +52,7 @@ dotnet test
 ## 📖 Tecnologias utilizadas
 
 - [C#](https://learn.microsoft.com/dotnet/csharp/)  
-- [.NET 6+](https://dotnet.microsoft.com/)  
+- [.NET 10+](https://dotnet.microsoft.com/)  
 - [xUnit](https://xunit.net/)  
 
 ---
@@ -66,7 +66,6 @@ Este projeto foi criado para demonstrar habilidades em:
 - Uso de GitHub para portfólio  
 
 ---
-
 ## 📜 Licença
 
 Este projeto está sob a licença MIT.  
