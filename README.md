@@ -72,4 +72,9 @@ Este projeto está sob a licença MIT.
 Sinta-se livre para usar e modificar.
 ```
 
-Quer que eu também sugira um **badge de build/test status** (como do GitHub Actions) para deixar o README mais profissional?
+
+
+
+
+
+
