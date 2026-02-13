@@ -71,10 +71,3 @@ Este projeto foi criado para demonstrar habilidades em:
 Este projeto está sob a licença MIT.  
 Sinta-se livre para usar e modificar.
 ```
-
-
-
-
-
-
-
